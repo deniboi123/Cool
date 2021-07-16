@@ -1,15 +1,5 @@
-# ![Cool Logo](https://github.com/deniboi123/Cool/blob/main/Cool2-Logo.png?raw=true)
+# GH-PAGES BRANCH!
 
-A python browser designed for privacy. Automatically blocks trackers, third party cookies.
+| This branch is made for GitHub Pages, please use main branch. |
 
-##### Start Cool using shell
-Go to the directory where Cool.py is stored, and run this
-```
-python Cool.py [Parameters]
-```
-
-### Parameters:
-Website * (required): The website name with the valid protocol and port
-
-
-
+To modify the site, please use Pull requests.
