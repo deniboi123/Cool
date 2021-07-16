@@ -1,7 +1,11 @@
-# ![alt text](https://github.com/deniboi123/Cool/blob/main/Cool-Logo.png?raw=true)
+# ![Cool Logo](https://github.com/deniboi123/Cool/blob/main/Cool2-Logo.png?raw=true)
 
-A browser engine designed for privacy. Automatically blocks trackers, third party cookies.
+A python browser designed for privacy. Automatically blocks trackers, third party cookies.
 
-```shell
-$ git clone https://github.com/deniboi123/Cool/Cool.git
+##### Start Cool using shell
+Go to the directory where Cool.py is stored, and run this
 ```
+python Cool.py [Parameters]
+```
+
+
