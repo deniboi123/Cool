@@ -8,4 +8,8 @@ Go to the directory where Cool.py is stored, and run this
 python Cool.py [Parameters]
 ```
 
+### Parameters:
+Website * (required): The website name with the valid protocol and port
+
+
 
